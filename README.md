@@ -1,3 +1,5 @@
+> Latest translations / 翻訳の最新版: [0-LATEST-TRANSLATIONS.md](0-LATEST-TRANSLATIONS.md)
+
 このOnlineTimeRecorderは、自分及び情報共有された方のスキルアップにつながると思い、M.Iの研究成果の一部をオープンソースとして公開させて頂いております。
 ホームページのアドレスは、こちらです。http://ion.tokyo
 
